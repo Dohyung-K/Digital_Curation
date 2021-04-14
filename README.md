@@ -1,1 +1,1 @@
-# Digital_Curation_Tutorial
+# Digital_Curation
